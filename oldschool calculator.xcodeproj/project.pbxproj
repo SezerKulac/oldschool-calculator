@@ -15,6 +15,7 @@
 		E5B043B51C57B86F00FA8F70 /* oldschool_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B043B41C57B86F00FA8F70 /* oldschool_calculatorTests.swift */; };
 		E5B043C01C57B86F00FA8F70 /* oldschool_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B043BF1C57B86F00FA8F70 /* oldschool_calculatorUITests.swift */; };
 		E5B043CE1C57C42900FA8F70 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E5B043CD1C57C42900FA8F70 /* Minecraft.ttf */; };
+		E5B043D01C582CA300FA8F70 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = E5B043CF1C582CA300FA8F70 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E5B043BF1C57B86F00FA8F70 /* oldschool_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oldschool_calculatorUITests.swift; sourceTree = "<group>"; };
 		E5B043C11C57B86F00FA8F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E5B043CD1C57C42900FA8F70 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		E5B043CF1C582CA300FA8F70 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = btn.wav; path = ../btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E5B043A31C57B86F00FA8F70 /* Main.storyboard */,
 				E5B043A61C57B86F00FA8F70 /* Assets.xcassets */,
 				E5B043CD1C57C42900FA8F70 /* Minecraft.ttf */,
+				E5B043CF1C582CA300FA8F70 /* btn.wav */,
 				E5B043A81C57B86F00FA8F70 /* LaunchScreen.storyboard */,
 				E5B043AB1C57B86F00FA8F70 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5B043D01C582CA300FA8F70 /* btn.wav in Resources */,
 				E5B043AA1C57B86F00FA8F70 /* LaunchScreen.storyboard in Resources */,
 				E5B043A71C57B86F00FA8F70 /* Assets.xcassets in Resources */,
 				E5B043CE1C57C42900FA8F70 /* Minecraft.ttf in Resources */,
