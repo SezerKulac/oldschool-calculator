@@ -19,6 +19,15 @@
 		E550109A1C591DBA008CE9D1 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108E1C591DBA008CE9D1 /* Icon-Small.png */; };
 		E550109B1C591DBA008CE9D1 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108F1C591DBA008CE9D1 /* Icon-Small@2x.png */; };
 		E550109C1C591DBA008CE9D1 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010901C591DBA008CE9D1 /* Icon-Small@3x.png */; };
+		E55010A61C592025008CE9D1 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = E550109D1C592025008CE9D1 /* Icon-60.png */; };
+		E55010A71C592025008CE9D1 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = E550109E1C592025008CE9D1 /* Icon-72.png */; };
+		E55010A81C592025008CE9D1 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E550109F1C592025008CE9D1 /* Icon-72@2x.png */; };
+		E55010A91C592025008CE9D1 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010A01C592025008CE9D1 /* Icon-Small-50.png */; };
+		E55010AA1C592025008CE9D1 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010A11C592025008CE9D1 /* Icon-Small-50@2x.png */; };
+		E55010AB1C592025008CE9D1 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010A21C592025008CE9D1 /* Icon.png */; };
+		E55010AC1C592025008CE9D1 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010A31C592025008CE9D1 /* Icon@2x.png */; };
+		E55010AD1C592025008CE9D1 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010A41C592025008CE9D1 /* iTunesArtwork.png */; };
+		E55010AE1C592025008CE9D1 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010A51C592025008CE9D1 /* iTunesArtwork@2x.png */; };
 		E5B043A01C57B86F00FA8F70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B0439F1C57B86F00FA8F70 /* AppDelegate.swift */; };
 		E5B043A21C57B86F00FA8F70 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B043A11C57B86F00FA8F70 /* ViewController.swift */; };
 		E5B043A51C57B86F00FA8F70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5B043A31C57B86F00FA8F70 /* Main.storyboard */; };
@@ -60,7 +69,16 @@
 		E550108E1C591DBA008CE9D1 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
 		E550108F1C591DBA008CE9D1 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
 		E55010901C591DBA008CE9D1 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
-		E5B0439C1C57B86F00FA8F70 /* Space Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Space Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E550109D1C592025008CE9D1 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		E550109E1C592025008CE9D1 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		E550109F1C592025008CE9D1 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		E55010A01C592025008CE9D1 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		E55010A11C592025008CE9D1 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		E55010A21C592025008CE9D1 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		E55010A31C592025008CE9D1 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		E55010A41C592025008CE9D1 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
+		E55010A51C592025008CE9D1 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		E5B0439C1C57B86F00FA8F70 /* Space Calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Space Calc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5B0439F1C57B86F00FA8F70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5B043A11C57B86F00FA8F70 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E5B043A41C57B86F00FA8F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -105,6 +123,15 @@
 		E55010841C591DBA008CE9D1 /* AppIcon.appiconset */ = {
 			isa = PBXGroup;
 			children = (
+				E550109D1C592025008CE9D1 /* Icon-60.png */,
+				E550109E1C592025008CE9D1 /* Icon-72.png */,
+				E550109F1C592025008CE9D1 /* Icon-72@2x.png */,
+				E55010A01C592025008CE9D1 /* Icon-Small-50.png */,
+				E55010A11C592025008CE9D1 /* Icon-Small-50@2x.png */,
+				E55010A21C592025008CE9D1 /* Icon.png */,
+				E55010A31C592025008CE9D1 /* Icon@2x.png */,
+				E55010A41C592025008CE9D1 /* iTunesArtwork.png */,
+				E55010A51C592025008CE9D1 /* iTunesArtwork@2x.png */,
 				E55010851C591DBA008CE9D1 /* Contents.json */,
 				E55010861C591DBA008CE9D1 /* Icon-40.png */,
 				E55010871C591DBA008CE9D1 /* Icon-40@2x.png */,
@@ -134,7 +161,7 @@
 		E5B0439D1C57B86F00FA8F70 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E5B0439C1C57B86F00FA8F70 /* Space Calculator.app */,
+				E5B0439C1C57B86F00FA8F70 /* Space Calc.app */,
 				E5B043B01C57B86F00FA8F70 /* oldschool calculatorTests.xctest */,
 				E5B043BB1C57B86F00FA8F70 /* oldschool calculatorUITests.xctest */,
 			);
@@ -192,7 +219,7 @@
 			);
 			name = "oldschool calculator";
 			productName = "oldschool calculator";
-			productReference = E5B0439C1C57B86F00FA8F70 /* Space Calculator.app */;
+			productReference = E5B0439C1C57B86F00FA8F70 /* Space Calc.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E5B043AF1C57B86F00FA8F70 /* oldschool calculatorTests */ = {
@@ -281,21 +308,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5B043D01C582CA300FA8F70 /* btn.wav in Resources */,
+				E55010AC1C592025008CE9D1 /* Icon@2x.png in Resources */,
 				E55010951C591DBA008CE9D1 /* Icon-60@2x.png in Resources */,
+				E55010A81C592025008CE9D1 /* Icon-72@2x.png in Resources */,
 				E5B043AA1C57B86F00FA8F70 /* LaunchScreen.storyboard in Resources */,
 				E55010981C591DBA008CE9D1 /* Icon-76@2x.png in Resources */,
 				E5B043A71C57B86F00FA8F70 /* Assets.xcassets in Resources */,
 				E55010991C591DBA008CE9D1 /* Icon-83.5@2x.png in Resources */,
 				E55010921C591DBA008CE9D1 /* Icon-40.png in Resources */,
 				E55010971C591DBA008CE9D1 /* Icon-76.png in Resources */,
+				E55010AB1C592025008CE9D1 /* Icon.png in Resources */,
 				E550109A1C591DBA008CE9D1 /* Icon-Small.png in Resources */,
+				E55010AA1C592025008CE9D1 /* Icon-Small-50@2x.png in Resources */,
 				E550109C1C591DBA008CE9D1 /* Icon-Small@3x.png in Resources */,
 				E55010941C591DBA008CE9D1 /* Icon-40@3x.png in Resources */,
 				E5B043CE1C57C42900FA8F70 /* Minecraft.ttf in Resources */,
+				E55010A71C592025008CE9D1 /* Icon-72.png in Resources */,
 				E55010931C591DBA008CE9D1 /* Icon-40@2x.png in Resources */,
+				E55010A91C592025008CE9D1 /* Icon-Small-50.png in Resources */,
 				E5B043A51C57B86F00FA8F70 /* Main.storyboard in Resources */,
+				E55010A61C592025008CE9D1 /* Icon-60.png in Resources */,
 				E550109B1C591DBA008CE9D1 /* Icon-Small@2x.png in Resources */,
 				E55010911C591DBA008CE9D1 /* Contents.json in Resources */,
+				E55010AE1C592025008CE9D1 /* iTunesArtwork@2x.png in Resources */,
+				E55010AD1C592025008CE9D1 /* iTunesArtwork.png in Resources */,
 				E55010961C591DBA008CE9D1 /* Icon-60@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
