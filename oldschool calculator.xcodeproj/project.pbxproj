@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E55010911C591DBA008CE9D1 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = E55010851C591DBA008CE9D1 /* Contents.json */; };
+		E55010921C591DBA008CE9D1 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010861C591DBA008CE9D1 /* Icon-40.png */; };
+		E55010931C591DBA008CE9D1 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010871C591DBA008CE9D1 /* Icon-40@2x.png */; };
+		E55010941C591DBA008CE9D1 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010881C591DBA008CE9D1 /* Icon-40@3x.png */; };
+		E55010951C591DBA008CE9D1 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010891C591DBA008CE9D1 /* Icon-60@2x.png */; };
+		E55010961C591DBA008CE9D1 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108A1C591DBA008CE9D1 /* Icon-60@3x.png */; };
+		E55010971C591DBA008CE9D1 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108B1C591DBA008CE9D1 /* Icon-76.png */; };
+		E55010981C591DBA008CE9D1 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108C1C591DBA008CE9D1 /* Icon-76@2x.png */; };
+		E55010991C591DBA008CE9D1 /* Icon-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108D1C591DBA008CE9D1 /* Icon-83.5@2x.png */; };
+		E550109A1C591DBA008CE9D1 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108E1C591DBA008CE9D1 /* Icon-Small.png */; };
+		E550109B1C591DBA008CE9D1 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E550108F1C591DBA008CE9D1 /* Icon-Small@2x.png */; };
+		E550109C1C591DBA008CE9D1 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55010901C591DBA008CE9D1 /* Icon-Small@3x.png */; };
 		E5B043A01C57B86F00FA8F70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B0439F1C57B86F00FA8F70 /* AppDelegate.swift */; };
 		E5B043A21C57B86F00FA8F70 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B043A11C57B86F00FA8F70 /* ViewController.swift */; };
 		E5B043A51C57B86F00FA8F70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5B043A31C57B86F00FA8F70 /* Main.storyboard */; };
@@ -36,7 +48,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E5B0439C1C57B86F00FA8F70 /* oldschool calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "oldschool calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E55010851C591DBA008CE9D1 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		E55010861C591DBA008CE9D1 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		E55010871C591DBA008CE9D1 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		E55010881C591DBA008CE9D1 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@3x.png"; sourceTree = "<group>"; };
+		E55010891C591DBA008CE9D1 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		E550108A1C591DBA008CE9D1 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		E550108B1C591DBA008CE9D1 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		E550108C1C591DBA008CE9D1 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		E550108D1C591DBA008CE9D1 /* Icon-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-83.5@2x.png"; sourceTree = "<group>"; };
+		E550108E1C591DBA008CE9D1 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		E550108F1C591DBA008CE9D1 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		E55010901C591DBA008CE9D1 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		E5B0439C1C57B86F00FA8F70 /* Space Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Space Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5B0439F1C57B86F00FA8F70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5B043A11C57B86F00FA8F70 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E5B043A41C57B86F00FA8F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -78,6 +102,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E55010841C591DBA008CE9D1 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				E55010851C591DBA008CE9D1 /* Contents.json */,
+				E55010861C591DBA008CE9D1 /* Icon-40.png */,
+				E55010871C591DBA008CE9D1 /* Icon-40@2x.png */,
+				E55010881C591DBA008CE9D1 /* Icon-40@3x.png */,
+				E55010891C591DBA008CE9D1 /* Icon-60@2x.png */,
+				E550108A1C591DBA008CE9D1 /* Icon-60@3x.png */,
+				E550108B1C591DBA008CE9D1 /* Icon-76.png */,
+				E550108C1C591DBA008CE9D1 /* Icon-76@2x.png */,
+				E550108D1C591DBA008CE9D1 /* Icon-83.5@2x.png */,
+				E550108E1C591DBA008CE9D1 /* Icon-Small.png */,
+				E550108F1C591DBA008CE9D1 /* Icon-Small@2x.png */,
+				E55010901C591DBA008CE9D1 /* Icon-Small@3x.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
 		E5B043931C57B86F00FA8F70 = {
 			isa = PBXGroup;
 			children = (
@@ -91,7 +134,7 @@
 		E5B0439D1C57B86F00FA8F70 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E5B0439C1C57B86F00FA8F70 /* oldschool calculator.app */,
+				E5B0439C1C57B86F00FA8F70 /* Space Calculator.app */,
 				E5B043B01C57B86F00FA8F70 /* oldschool calculatorTests.xctest */,
 				E5B043BB1C57B86F00FA8F70 /* oldschool calculatorUITests.xctest */,
 			);
@@ -108,6 +151,7 @@
 				E5B043CD1C57C42900FA8F70 /* Minecraft.ttf */,
 				E5B043CF1C582CA300FA8F70 /* btn.wav */,
 				E5B043A81C57B86F00FA8F70 /* LaunchScreen.storyboard */,
+				E55010841C591DBA008CE9D1 /* AppIcon.appiconset */,
 				E5B043AB1C57B86F00FA8F70 /* Info.plist */,
 			);
 			path = "oldschool calculator";
@@ -148,7 +192,7 @@
 			);
 			name = "oldschool calculator";
 			productName = "oldschool calculator";
-			productReference = E5B0439C1C57B86F00FA8F70 /* oldschool calculator.app */;
+			productReference = E5B0439C1C57B86F00FA8F70 /* Space Calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E5B043AF1C57B86F00FA8F70 /* oldschool calculatorTests */ = {
@@ -199,6 +243,7 @@
 				TargetAttributes = {
 					E5B0439B1C57B86F00FA8F70 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 96Y7TLGNJW;
 					};
 					E5B043AF1C57B86F00FA8F70 = {
 						CreatedOnToolsVersion = 7.2;
@@ -236,10 +281,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5B043D01C582CA300FA8F70 /* btn.wav in Resources */,
+				E55010951C591DBA008CE9D1 /* Icon-60@2x.png in Resources */,
 				E5B043AA1C57B86F00FA8F70 /* LaunchScreen.storyboard in Resources */,
+				E55010981C591DBA008CE9D1 /* Icon-76@2x.png in Resources */,
 				E5B043A71C57B86F00FA8F70 /* Assets.xcassets in Resources */,
+				E55010991C591DBA008CE9D1 /* Icon-83.5@2x.png in Resources */,
+				E55010921C591DBA008CE9D1 /* Icon-40.png in Resources */,
+				E55010971C591DBA008CE9D1 /* Icon-76.png in Resources */,
+				E550109A1C591DBA008CE9D1 /* Icon-Small.png in Resources */,
+				E550109C1C591DBA008CE9D1 /* Icon-Small@3x.png in Resources */,
+				E55010941C591DBA008CE9D1 /* Icon-40@3x.png in Resources */,
 				E5B043CE1C57C42900FA8F70 /* Minecraft.ttf in Resources */,
+				E55010931C591DBA008CE9D1 /* Icon-40@2x.png in Resources */,
 				E5B043A51C57B86F00FA8F70 /* Main.storyboard in Resources */,
+				E550109B1C591DBA008CE9D1 /* Icon-Small@2x.png in Resources */,
+				E55010911C591DBA008CE9D1 /* Contents.json in Resources */,
+				E55010961C591DBA008CE9D1 /* Icon-60@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,10 +462,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "oldschool calculator/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sezer.oldschool-calculator";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sezer.space-calculator";
+				PRODUCT_NAME = "Space Calc";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -416,10 +477,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "oldschool calculator/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sezer.oldschool-calculator";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sezer.space-calculator";
+				PRODUCT_NAME = "Space Calc";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
